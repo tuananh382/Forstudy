@@ -7,7 +7,7 @@ function Header () {
                 <div className="container">
                     <div className="header-main d-flex justify-content-between align-items-center">
                         <div className="header-logo">
-                            <a href="/"><span>ForStudy</span></a>
+                            <a href="/"><span>TA Shoe</span></a>
                         </div>
                         <button type="button" className="header-hamburger-btn js-header-menu-toggler">
                             <span></span>
@@ -19,7 +19,7 @@ function Header () {
                             </button>
                             <ul className="menu">
                                 <li className="menu-item"><a href="/">trang chủ</a></li>
-                                <li className="menu-item "><a href="course">khoá học</a></li>
+                                <li className="menu-item "><a href="course">sản phẩm</a></li>
                                 <li className="menu-item menu-item-has-children">
                                     <a href="#" className="js-toggle-sub-menu">tài khoản<i className="fas fa-chevron-down"></i></a>
                                     <ul className="sub-menu js-sub-menu">

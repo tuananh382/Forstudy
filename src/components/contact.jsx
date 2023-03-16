@@ -28,7 +28,7 @@ function Contact() {
                                 <div class="contact-item">
                                     <div class="icon-box"><i class="fas fa-envelope"></i></div>
                                     <h3>Địa chỉ Email</h3>
-                                    <p>dashstudy@gmail.com</p>
+                                    <p>TAShoe@gmail.com</p>
                                 </div>
                             </div>
                         </div>

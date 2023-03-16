@@ -9,7 +9,7 @@ function Courseitem(props) {
                         <div className="img-box">
                             <img src={props.imgcourse} />
                         </div>
-                        <h3 className="title">html cơ bản</h3>
+                        <h3 className="title">{props.title}</h3>
                         <div className="instructor">
                             <img src={props.imginstructor} />
                             <span className="instructor-name">{props.nameinstructor}</span>
